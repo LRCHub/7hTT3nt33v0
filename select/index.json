@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "不死鳥",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2026-02-22T17:11:31.999802Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "不死鳥",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/01_不死鳥_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "不死鳥",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/02_不死鳥_SEKAI_NO_OWARI.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "不死鳥",
+      "artist": "Shonan No Kaze",
+      "has_synced": false,
+      "path": "select/03_不死鳥_Shonan_No_Kaze.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "不死鳥 - Fushicho",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/04_不死鳥_-_Fushicho_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "不死鳥",
+      "artist": "Shonan No Kaze",
+      "has_synced": true,
+      "path": "select/05_不死鳥_Shonan_No_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "不死鳥 - Fushicho",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/06_不死鳥_-_Fushicho_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不死鳥",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_不死鳥_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
